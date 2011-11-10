@@ -1,0 +1,7 @@
+Criterion;Value;Weight
+File name_substr;rgml;1
+File substring;rgml;1
+Element name;bag;2
+File substring;<rdf:bag;2
+Element name;seq;2
+File substring;<rdf:seq;2

@@ -1,0 +1,8 @@
+Criterion;Value;Weight
+Element name;rdf;10
+File substring;<rdf:rdf;10
+Element name;Class;4
+File substring;<rdfs:Class;4
+Element name;subClassOf;2
+File substring;<rdfs:subClassOf;2
+File substring;http://www.w3.org/2000/01/rdf-schema#Class;2

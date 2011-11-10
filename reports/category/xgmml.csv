@@ -1,0 +1,8 @@
+Criterion;Value;Weight
+File name_substr;xgmml;8
+File substring;xgmml;5
+Template match substring;graph;5
+Template match substring;node;3
+Template match substring;edge;3
+Template match substring;graphic;1
+Template match substring;att;1

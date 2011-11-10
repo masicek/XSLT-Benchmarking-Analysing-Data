@@ -1,0 +1,6 @@
+Criterion;Value;Weight
+File name_substr;rgml;8
+File substring;rgml;1
+Template match substring;rdf:;1
+Template match substring;rdf:seq;2
+Template match substring;rdf:bag;2

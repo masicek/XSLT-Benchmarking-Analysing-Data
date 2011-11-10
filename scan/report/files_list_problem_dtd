@@ -1,0 +1,37 @@
+../data/dexter-xsl.googlecode.com/svn/branches/temple-refactor/build/ckbk/XSLTCkBkCode/generic/aggr-test4.xslt:	<!ENTITY % standard SYSTEM "../strings/standard.ent">
+../data/dexter-xsl.googlecode.com/svn/branches/temple-refactor/build/ckbk/XSLTCkBkCode/strings/other/change-case2.xslt:	<!ENTITY % standard SYSTEM "standard.ent">
+../data/docbook.sourceforge.net/release/xsl/1.75.2/fo/glossary.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/1.75.2/html/autoidx.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/1.75.2/html/inline.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/common/autoidx-kimber.xsl:<!ENTITY % common.entities SYSTEM "entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/common/autoidx-kosek.xsl:<!ENTITY % common.entities SYSTEM "entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/fo/autoidx-kimber.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/fo/autoidx-kosek.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/fo/autoidx.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/fo/glossary.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/fo/index.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/fo/inline.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/html/autoidx-kimber.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/html/autoidx-kosek.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/html/autoidx.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/html/glossary.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/html/inline.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl/current/roundtrip/blocks2dbk.xsl:<!ENTITY % ext SYSTEM "blocks2dbk.dtd">
+../data/docbook.sourceforge.net/release/xsl-ns/1.75.2/fo/glossary.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/1.75.2/html/autoidx.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/1.75.2/html/inline.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/common/autoidx-kimber.xsl:<!ENTITY % common.entities SYSTEM "entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/common/autoidx-kosek.xsl:<!ENTITY % common.entities SYSTEM "entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/fo/autoidx-kimber.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/fo/autoidx-kosek.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/fo/autoidx.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/fo/glossary.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/fo/index.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/fo/inline.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/html/autoidx-kimber.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/html/autoidx-kosek.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/html/autoidx.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/html/glossary.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/html/inline.xsl:<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+../data/docbook.sourceforge.net/release/xsl-ns/current/roundtrip/blocks2dbk.xsl:<!ENTITY % ext SYSTEM "blocks2dbk.dtd">
+../data/www.w3.org/2007/02/bugs2html/bugs2html.xsl:<!ENTITY % specinfo SYSTEM "bugs2html-specinfo.dtd">

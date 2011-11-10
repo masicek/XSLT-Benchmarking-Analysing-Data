@@ -1,0 +1,8 @@
+Criterion;Value;Weight
+File name_substr;graphml;8
+File substring;graphml;3
+Template name substring;generatenodes;2
+Template name substring;generateedges;2
+Template match substring;graphml;8
+Template match substring;graph;1
+Template match substring;edge;1

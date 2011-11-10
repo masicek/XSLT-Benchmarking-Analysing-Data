@@ -1,0 +1,10 @@
+Criterion;Value;Weight
+File name_substr;rss;1
+Element name;rss;10
+File substring;<rss;10
+Element name;rdf;10
+File substring;<rdf:rdf;10
+Element name;channel;3
+File substring;<channel;3
+Element name;item;1
+File substring;<item;1

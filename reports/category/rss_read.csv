@@ -1,0 +1,8 @@
+Criterion;Value;Weight
+Template match substring;rss;10
+Template match substring;rdf;10
+Template match substring;channel;3
+Template match substring;item;1
+File name_substr;rss;8
+File name;navlist.xslt;13
+File name;newsfeeds.xslt;13

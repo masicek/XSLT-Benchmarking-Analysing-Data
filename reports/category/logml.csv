@@ -1,0 +1,11 @@
+Criterion;Value;Weight
+File name_substr;logml;12
+File substring;logml;4
+Template match substring;logml;8
+Template name substring;logml;4
+Template match substring;hosts;1
+Template match substring;domains;1
+Template match substring;directories;1
+Template match substring;userAgents;1
+Template match substring;referers;1
+Template match substring;keywords;1

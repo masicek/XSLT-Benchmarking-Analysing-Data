@@ -1,0 +1,4 @@
+Criterion;Value;Weight
+google_variable_name.sh`IMPORTANCE[0]=1
+File substring;XSL to format the search output for Google Search Appliance;10
+File substring;Google Search Appliance;5

@@ -1,0 +1,10 @@
+Criterion;Value;Weight
+File name_substr;rdfs;1
+Template match substring;rdf;1
+Template match substring;rdfs;2
+Template match substring;description;5
+Template match substring;Class;3
+Template match substring;subClassOf;3
+Template match substring;bag;2
+Template match substring;seq;2
+Template match substring;alt;2

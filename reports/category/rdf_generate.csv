@@ -1,0 +1,5 @@
+Criterion;Value;Weight
+Element name;rdf;10
+File substring;<rdf:rdf;10
+Element name;Description;4
+File substring;<rdf:Description;4

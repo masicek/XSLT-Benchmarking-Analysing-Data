@@ -1,0 +1,15 @@
+category;in;middle;out;error
+rss_generate;34;124;5499;112
+rss_read;243;109;5309;108
+google_search;13;0;5647;109
+xgmml;124;145;5388;112
+logml;0;0;5654;115
+graphml;4;20;5634;111
+docbook_generate;4;2;5646;117
+docbook_read;719;32;4907;111
+rdf_generate;141;0;5517;111
+rdf_read;56;10;5590;113
+rdfs_generate;14;127;5516;112
+rdfs_read;88;27;5540;114
+rgml_generate;1;1;5648;119
+rgml_read;6;2;5640;121

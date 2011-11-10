@@ -1,0 +1,10 @@
+Criterion;Value;Weight
+File name_substr;docbook;5
+File name_substr;docbook.sourceforge.net;6
+File substring;docbook.dtd;9
+File substring;This file is part of the XSL DocBook Stylesheet distribution;11
+Template match substring;chapter;1
+Template match substring;abstract;1
+Template match substring;section;1
+Template match substring;bibliography;1
+Template match substring;footnote;1
